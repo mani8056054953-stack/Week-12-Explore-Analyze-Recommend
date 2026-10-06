@@ -32,4 +32,4 @@ The business should focus on high-profit categories and regions and regularly mo
 The analysis shows that business performance varies across categories, regions, and time periods. The Tableau dashboard helps users explore these patterns interactively and supports better business decision-making.
 
 ## Tool Used
-[- Tableau Public view ](https://public.tableau.com/views/TASK-10Heatmap/Heatchart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[- Tableau Public view ](https://public.tableau.com/views/Week12ExploreAnalyzeRecommend/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
